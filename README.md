@@ -75,7 +75,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hackeryoon007&theme=gruvbox&no-frame=true&margin-w=5&title=Stars,Repositories,Commits,Followers,PullRequest" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hackeryoon007&theme=onedark&no-frame=false&margin-w=10&rank=SSS,SS,S,AAA,AA,A,B,C&column=6" />
 </p>
 
 ---
