@@ -1,88 +1,74 @@
-<h1 align="center">Hi 👋, I'm Kingshuk Chatterjee</h1>
+<h1 align="center">Hi there 👋, I'm Kingshuk Chatterjee</h1>
 <p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/engineer-coding-on-multiple-computer-5307166-4435860.png" alt="coding" width="400"/>
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/developer-setup-5307167-4435861.png" alt="dev-banner" width="400"/>
 </p>
 
-<h3 align="center">🚀 Design Analyst | Automotive Designer | Technologist | Creator</h3>
+<h3 align="center">⚙️ Design Analyst | Automotive Designer | Data Visualizer | Technologist ⚙️</h3>
 
 ---
 
 ## 🪶 About Me
 
-Hello! I’m **Kingshuk**, blending **design thinking** with **technical development** to bring visions to life.  
-With roots in **automotive design** and a deep appreciation for software craftsmanship, I explore projects that push the edge of creativity and technology.
+🚀 **Transforming ideas into real-world applications with creativity and precision.**  
+Rooted in design, thriving in code, and passionate about building beautiful, meaningful digital experiences.
 
-🔸 **Hacker** • **Analyst** • **Designer** • **Artist** • **Collector**  
-📍 Mumbai, India
-
----
-
-## ⚙️ Currently Exploring
-- 📱 UI/UX Product Design
-- 🌐 Full Stack Development
-- 📊 Data-driven Product Solutions
-- ☁️ Cloud Platforms (Azure & AWS)
-- 🏎 Automotive Visualization (3D Modelling, Blender)
+📍 **Mumbai, India** | 🎨 **Automotive Poster Artist** | 📊 **Analytics Enthusiast**
 
 ---
 
-## 🏆 Achievements
-- 🎖️ IBM Certified — *Python for AI & Application Development*
-- 🏁 Designed and deployed multiple real-world projects with complete UI/UX
-- 🏅 Research projects combining technical analysis with financial forecasting
-- ✨ Leading multiple creative design projects on web & visual platforms
+## 🛠️ Tech Stack & Tools I Use
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-## 🚀 Projects Showcase
+## 📂 Featured Projects
 
-| 🌟 Project Name                              | 🔖 Description                                                              | 🛠 Tech Used                              |
-|---------------------------------------------|---------------------------------------------------------------------------|------------------------------------------|
-| **FinReport: Stock Earnings Forecast**     | Forecasting stock earnings by analyzing financial data & news             | Python, Pandas, HTML, CSS, Flask        |
-| **LiDAR Project**                         | Research on LiDAR-based detection and visualization                       | HTML, CSS, JS                           |
-| **Codsoft Internship Banking App**        | Complete Figma-based design for banking app login UI                      | Figma                                   |
-| **oaqjp-final-project-emb-ai (IBM Final)** | Emotion-based AI analysis using IBM Watson APIs                           | Python, HTML, Flask                     |
-| **Food Menu Website**                    | Basic UI layout for restaurant food menu website                          | HTML, CSS                               |
+| 💼 **Project**                             | 🔖 **Description**                                                | ⚙️ **Tech Stack**                           |
+|--------------------------------------------|--------------------------------------------------------------------|---------------------------------------------|
+| **FinReport**                              | Stock earnings forecasting with technical & financial indicators  | Python, Flask, Pandas, HTML, CSS           |
+| **LiDAR Research**                         | LiDAR visualization interface for research purposes               | HTML, CSS, JavaScript                      |
+| **IBM Final NLP Project**                  | Emotion detection using IBM Watson NLP APIs                       | Python, Flask, IBM NLP                     |
+| **Bank Login UI (Codsoft)**                | UI/UX login screen for modern banking apps                        | Figma                                      |
+| **Food Menu Website**                     | Restaurant menu site with responsive design                       | HTML, CSS                                  |
 
 ---
 
-## 🛠️ My Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-
-### Frameworks & Tools
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=adobexd)
-![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hackeryoon007&theme=gruvbox&no-frame=true&margin-w=5&title=MultiLanguage,Commits,Repositories,PullRequest,Followers,Stars" alt="GitHub Trophies"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hackeryoon007&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hackeryoon007&show_icons=true&theme=tokyonight" alt="stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackeryoon007&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackeryoon007&layout=compact&theme=tokyonight" alt="langs"/>
 </p>
 
 ---
 
-## 🎨 Extra Activities
-- 🎨 Automotive Poster Designer
-- 🛠️ Collector of Diecast Models
-- 🏁 Passionate about **automotive culture**
-- 🤝 Open to collaborations in **UI/UX** & **Web Projects**
+## 🏁 Extra Activities
+- 🖼️ Automotive Poster Creator (Slipstream Studios)
+- 🗂️ Collector of Diecast Models
+- 🎯 Research Enthusiast: *Analytics meets Creativity*
+- 🤝 Open for meaningful collaborations in **UI/UX**, **Web Development**, and **Automotive Design**
 
 <p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/car-poster-designer-3687268-3072857.png" alt="design" width="300"/>
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/graphic-designer-working-on-project-9326407-7568027.png" alt="design-banner" width="300"/>
 </p>
 
-> *"Form follows function — but function should always be beautiful."*  
+> *“Elegance in code, clarity in design, beauty in form.”*  
 > — *Kingshuk Chatterjee*
 
 ---
