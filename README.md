@@ -4,6 +4,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding animation" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+world+of+design;Automotive+Enthusiast+and+Technologist;Always+Learning+and+Building&font=Fira+Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000" />
+</p>
+
 <h3 align="center">⚙️ Design Analyst | Automotive Designer | Data Visualizer | Technologist ⚙️</h3>
 
 ---
@@ -14,6 +18,7 @@
 - 🏁 Automotive Designer & Poster Artist at **Slipstream Studios**
 - 🗂️ Collector of diecast models | 🛠️ Open Source Enthusiast
 - 📍 Based in **Mumbai, India**
+- ⚡ Fun Fact: I build **art from machine**, blending **pixels with pistons**.
 
 ---
 
@@ -22,6 +27,8 @@
 - 🖥️ **UX/UI Product Design Systems** (Advanced)
 - 📊 **Analytics Tools** (Power BI, Tableau)
 - ☁️ **Cloud Technologies (Azure Basics)**
+- 🎥 **Video Editing** (DaVinci Resolve & Adobe Premiere)
+- 🧑‍💼 **Business Intelligence & Data Storytelling**
 
 ---
 
@@ -31,6 +38,9 @@
 - 🏆 **Multiple projects on Web Development & Visualization**
 - 📈 **Research:** Stock Earnings Forecasting via Machine Learning
 - 🖼️ **Built Automotive Poster Studio for personal & commercial clients**
+- 🛡️ **Top 3 Poster Designers** on several automotive forums
+- 🏅 **Lead Designer** in multiple collaborative tech projects
+- 🏅 **Recognized at campus events** for contributions in tech & creative design
 
 ---
 
@@ -49,6 +59,7 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
 
 ### 📊 Analytics & Data
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -89,14 +100,18 @@
 | **IBM NLP Final**                           | Emotion analysis of text using IBM Watson NLP APIs                | Python, Flask, IBM NLP                   |
 | **Bank Login UI**                           | Modern banking login screen prototype                             | Figma                                    |
 | **Food Menu Website**                       | Clean, professional restaurant website                            | HTML, CSS                                |
+| **Poster Studio (Slipstream)**              | Automotive Poster Project: Realistic Compositions                 | Figma, Photoshop, Blender                |
+| **Django Learning Portal**                  | Educational portal for quizzes & exams                           | Python, Django, HTML, CSS, Bootstrap     |
 
 ---
 
 ## 🏁 Extra Activities
 
-- 🎨 **Automotive Poster Creator**
-- 🛠️ **Diecast Model Collector**
+- 🎨 **Automotive Poster Creator & Concept Illustrator**
+- 🛠️ **Diecast Model Collector & Automotive Enthusiast**
 - 🤝 **Open to meaningful collaborations** in UI/UX, analytics, and web development
+- 🗣️ **Public Speaking** at University events related to creativity & tech
+- ✨ **Mentor & Guide** for juniors in tech design
 
 <p align="center">
   <img src="https://media.tenor.com/Dn8EZpHkciMAAAAC/sosuke-aizen-bleach.gif" width="450"/>
