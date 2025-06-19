@@ -99,7 +99,7 @@
 - 🤝 **Open to meaningful collaborations** in UI/UX, analytics, and web development
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="300"/>
+  <img src="https://media.tenor.com/Dn8EZpHkciMAAAAC/sosuke-aizen-bleach.gif" width="450"/>
 </p>
 
 > *"Elegance in code, clarity in design, beauty in form."* — *Kingshuk Chatterjee*
