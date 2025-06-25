@@ -41,7 +41,7 @@
 - 🛡️ **Top 3 Poster Designers** on several automotive forums
 - 🏅 **Lead Designer** in multiple collaborative tech projects
 - 🏅 **Recognized at campus events** for contributions in tech & creative design
-- 🧠 **Solved 100+ Hard, 40+ Medium, and 30+ Easy LeetCode problems**
+- 🧠 **Solved 125+ Hard, 346+ Medium, and 95+ Easy LeetCode problems**
 
 ---
 
@@ -88,6 +88,13 @@
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hackeryoon007&theme=gruvbox&no-frame=false&row=2&column=4&margin-w=10" />
+</p>
+
+---
+
+## 🔥 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/HirodakiKamo7?theme=dark&font=Roboto&ext=activity" width="600" />
 </p>
 
 ---
