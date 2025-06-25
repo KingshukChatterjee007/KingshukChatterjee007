@@ -77,9 +77,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hackeryoon007&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KingshukChatterjee007&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="400"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackeryoon007&layout=compact&theme=tokyonight" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingshukChatterjee007&layout=compact&theme=tokyonight" width="300"/>
 </p>
 
 ---
