@@ -93,9 +93,17 @@
 ---
 
 ## 🔥 LeetCode Stats
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/HirodakiKamo7?theme=dark&font=Roboto&ext=activity" width="600" />
+  <img src="https://leetcard.jacoblin.cool/HirodakiKamo7?theme=dark&font=Fira+Code&ext=heatmap&animation=true" width="600" alt="LeetCode Stats" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hard%20Problems%20Solved-125-red?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Medium%20Problems%20Solved-346-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Easy%20Problems%20Solved-95-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
+
 
 ---
 
