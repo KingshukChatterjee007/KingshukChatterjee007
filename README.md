@@ -94,9 +94,7 @@
 
 ## 🔥 LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/HirodakiKamo7?theme=dark&font=Fira+Code&ext=heatmap&animation=true" width="600" alt="LeetCode Stats" />
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Hard%20Problems%20Solved-125-red?style=for-the-badge&logo=leetcode&logoColor=white" />
