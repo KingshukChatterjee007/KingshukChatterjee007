@@ -87,7 +87,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hackeryoon007&theme=gruvbox&no-frame=false&row=2&column=4&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KingshukChatterjee007&theme=gruvbox&no-frame=false&row=2&column=4&margin-w=10" />
 </p>
 
 ---
