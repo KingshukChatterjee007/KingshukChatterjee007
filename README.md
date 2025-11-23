@@ -17,7 +17,7 @@
 - 🎨 Passionate about **design, creativity, and technology**
 - 🏁 Automotive Designer & Poster Artist at **Slipstream Studios**
 - 🗂️ Collector of diecast models | 🛠️ Open Source Enthusiast
-- 📍 Based in **Mumbai, India**
+- 📍 Based in **Bhubaneswar, India**
 - ⚡ Fun Fact: I build **art from machine**, blending **pixels with pistons**.
 
 ---
