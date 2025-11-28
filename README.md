@@ -81,16 +81,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KingshukChatterjee007&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="400"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingshukChatterjee007&layout=compact&theme=tokyonight" width="300"/>
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KingshukChatterjee007&theme=gruvbox&no-frame=false&row=2&column=4&margin-w=10" />
