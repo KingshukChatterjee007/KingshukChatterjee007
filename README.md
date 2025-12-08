@@ -1,4 +1,5 @@
-![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kingshuk%20Chatterjee&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Building%20Art%20from%20Machine&descAlignY=55&descAlign=50)<h1 align="center">
+<h1 align="center">Hi there 👋, I'm Kingshuk Chatterjee</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+world+of+design;Automotive+Enthusiast+%26+Technologist;Building+Art+from+Machine;Flutter+Developer+%26+Data+Storyteller&font=Fira+Code&center=true&width=500&height=50&color=58A6FF&vCenter=true&pause=1000" alt="Typing SVG" />
 </p>
@@ -34,7 +35,7 @@
 
 ### 🧠 AI & Data Science
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
 </div>
 
 ### 📱 Mobile & Backend
@@ -53,15 +54,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KingshukChatterjee007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingshukChatterjee007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KingshukChatterjee007&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+![GitHub followers](https://img.shields.io/github/followers/KingshukChatterjee007?style=social)
+![GitHub stars](https://img.shields.io/github/stars/KingshukChatterjee007?style=social)
+![GitHub forks](https://img.shields.io/github/forks/KingshukChatterjee007?style=social)
 
 </div>
 
