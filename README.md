@@ -34,17 +34,17 @@
 
 ### 🧠 AI & Data Science
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,tensorflow,sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
 </div>
 
 ### 📱 Mobile & Backend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,android,flask,azure" />
+  <img src="https://skillicons.dev/icons?i=flutter,flask,azure" />
 </div>
 
 ### 🎨 Design & Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,blender,ps,xd,canva,vscode,github,git" />
+  <img src="https://skillicons.dev/icons?i=figma,blender,ps,xd,vscode,github,git" />
 </div>
 
 ---
@@ -58,6 +58,10 @@
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingshukChatterjee007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KingshukChatterjee007&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 </div>
 
