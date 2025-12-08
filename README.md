@@ -68,10 +68,8 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KingshukChatterjee007&theme=gruvbox&no-frame=false&row=1&column=7&margin-w=10" />
+  <img src="https://raw.githubusercontent.com/KingshukChatterjee007/KingshukChatterjee007/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
