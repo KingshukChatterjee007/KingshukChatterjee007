@@ -1,247 +1,103 @@
 <h1 align="center">Hi there 👋, I'm Kingshuk Chatterjee</h1>
 
-
-
 <p align="center">
-
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding animation" />
-
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+world+of+design;Automotive+Enthusiast+%26+Technologist;Building+Art+from+Machine;Flutter+Developer+%26+Data+Storyteller&font=Fira+Code&center=true&width=500&height=50&color=58A6FF&vCenter=true&pause=1000" alt="Typing SVG" />
 </p>
-
-
-
-<p align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+world+of+design;Automotive+Enthusiast+and+Technologist;Always+Learning+and+Building;Flutter+Developer+%26+Vibe+Coder&font=Fira+Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000" />
-
-</p>
-
-
 
 <h3 align="center">⚙️ Design Analyst | Automotive Designer | Mobile Developer | Data Visualizer ⚙️</h3>
 
-
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kingshuk-chatterjee-124101286/)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kingshuk_03/)
+  
+</div>
 
 ---
-
-
 
 ## 👨‍💻 About Me
 
-
-
 - 🎨 Passionate about **design, creativity, and technology**
-
 - 🏁 Automotive Designer & Poster Artist at **Slipstream Studios**
-
 - 📱 Exploring the world of **Mobile App Development** with Flutter
-
 - 🗂️ Collector of diecast models | 🛠️ Open Source Enthusiast
-
 - 📍 Based in **Bhubaneswar, India**
-
-- ⚡ Fun Fact: I build **art from machine**, blending **pixels with pistons**.
-
-
+- ⚡ **Fun Fact:** I build **art from machine**, blending **pixels with pistons**.
 
 ---
-
-
-
-## 📚 Currently Exploring
-
-
-
-- 📱 **Flutter & Dart** (Intermediate - Advanced Architecture)
-
-- 🖥️ **UX/UI Product Design Systems** (Advanced)
-
-- 📊 **Analytics Tools** (Power BI, Tableau)
-
-- ☁️ **Cloud Technologies (Azure Basics)**
-
-- 🧑‍💼 **Business Intelligence & Data Storytelling**
-
-
-
----
-
-
-
-## 🎓 Achievements & Highlights
-
-
-
-- ✅ **IBM Certified — Python for AI & Application Development**
-
-- 🏆 **Multiple projects on Web Development & Visualization**
-
-- 📱 **Built "Vibe Music Player"** - A fully functional Android music app
-
-- 📈 **Research:** Stock Earnings Forecasting via Machine Learning
-
-- 🖼️ **Built Automotive Poster Studio for personal & commercial clients**
-
-- 🛡️ **Top 3 Poster Designers** on several automotive forums
-
-- 🏅 **Lead Designer** in multiple collaborative tech projects
-
-- 🧠 **Solved 125+ Hard, 346+ Medium, and 95+ Easy LeetCode problems**
-
-
-
----
-
-
 
 ## 🛠️ My Tech Stack
 
+<div align="center">
 
+### 💻 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 💻 Programming Languages
+### 🧠 AI, Data Science & Analytics
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
-
-
-
-### 📱 Mobile & Frameworks
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
-
-
+### 📱 Mobile & Backend
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 🎨 Design & Creative Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/adobe%20xd-%23470137.svg?style=for-the-badge&logo=adobexd&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+### 🛠 Tools
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=adobexd&logoColor=white)
-
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
-
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
-
-
-
-### 📊 Analytics & Data
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
-
-
-### 🛠 Dev Tools
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-
+</div>
 
 ---
-
-
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=KingshukChatterjee007&theme=gruvbox&no-frame=false&row=2&column=4&margin-w=10" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=KingshukChatterjee007&theme=gruvbox&no-frame=false&row=1&column=7&margin-w=10" />
 </p>
 
-
-
 ---
-
-
 
 ## 🚀 Featured Projects
 
-
-
-| 🌟 Project                                  | 🔖 Description                                                      | ⚙️ Tech Used                               |
-
-|---------------------------------------------|--------------------------------------------------------------------|-------------------------------------------|
-
-| **Vibe Music Player** | Neumorphic Local Music Player with Dark Mode & BLoC Architecture   | Flutter, Dart, BLoC, SQLite               |
-
-| **FinReport: Earnings Forecast** | Stock forecasting using ML + financial sentiment analysis          | Python, Flask, Pandas, HTML, CSS          |
-
-| **LiDAR Visualization Research** | 3D LiDAR visualization in browser                                  | HTML, CSS, JavaScript                     |
-
-| **IBM NLP Final** | Emotion analysis of text using IBM Watson NLP APIs                 | Python, Flask, IBM NLP                    |
-
-| **Poster Studio (Slipstream)** | Automotive Poster Project: Realistic Compositions                  | Figma, Photoshop, Blender                 |
-
-| **Django Learning Portal** | Educational portal for quizzes & exams                             | Python, Django, HTML, CSS, Bootstrap      |
-
-
+| 🌟 Project | 🔖 Description | ⚙️ Tech Used |
+| :--- | :--- | :--- |
+| **Vibe Music Player** | Neumorphic Local Music Player with Dark Mode & BLoC Architecture | Flutter, Dart, BLoC, SQLite |
+| **FinReport: Earnings** | Stock forecasting using ML + financial sentiment analysis | Python, Pandas, Sklearn, Flask |
+| **LiDAR Viz Research** | 3D LiDAR visualization in browser | HTML, CSS, JavaScript |
+| **IBM NLP Final** | Emotion analysis of text using IBM Watson NLP APIs | Python, Flask, IBM NLP |
+| **Poster Studio** | Automotive Poster Project: Realistic Compositions | Figma, Photoshop, Blender |
 
 ---
-
-
 
 ## 🏁 Extra Activities
 
-
-
 - 🎨 **Automotive Poster Creator & Concept Illustrator**
-
 - 🛠️ **Diecast Model Collector & Automotive Enthusiast**
-
 - 🤝 **Open to meaningful collaborations** in UI/UX, analytics, and web development
-
 - 🗣️ **Public Speaking** at University events related to creativity & tech
-
 - ✨ **Mentor & Guide** for juniors in tech design
 
-
-
 <p align="center">
-
   <img src="https://media.tenor.com/Dn8EZpHkciMAAAAC/sosuke-aizen-bleach.gif" width="450"/>
-
 </p>
 
-
-
 > *"Elegance in code, clarity in design, beauty in form."* — *Kingshuk Chatterjee*
-
-
-
----
-
-
-
-## 📫 Connect with Me
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kingshuk-chatterjee-124101286/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kingshuk_03/)
-
-[![X](
