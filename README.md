@@ -49,16 +49,12 @@
 </div>
 
 ---
+###🎓 **Academic Achievements**
 
-## 🏆 GitHub Stats
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/KingshukChatterjee007?style=social)
-![GitHub stars](https://img.shields.io/github/stars/KingshukChatterjee007?style=social)
-![GitHub forks](https://img.shields.io/github/forks/KingshukChatterjee007?style=social)
-
-</div>
+Research paper titled “Stock Earnings Forecasting via News Factor Analyzing Model” accepted for publication in Elsevier Procedia Computer Science and selected for presentation at ICMLDE 2025.
+Qualified for final round in MIT Hacknation Global Hackathon 2025
+Qualified for the 2nd round of the Nirman 4.0 Hackathon at Silicon University
+KSRC Member for 2+ years 
 
 ---
 
