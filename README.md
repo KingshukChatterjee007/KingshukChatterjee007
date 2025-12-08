@@ -52,7 +52,6 @@
 ## 🎓 Academic Achievements
 
 - 📜 **Research Paper Accepted:** "Stock Earnings Forecasting via News Factor Analyzing Model" accepted for publication in *Elsevier Procedia Computer Science* and selected for presentation at **ICMLDE 2025**.
-- 🌍 **Global Finalist:** Qualified for the final round in the **MIT Hacknation Global Hackathon**.
 - 🥈 **Hackathon Success:** Qualified for the 2nd round of the **Nirman 4.0 Hackathon** at Silicon University.
 - 🤝 **Community Leadership:** Active **KSRC Member** for 2+ years.
 
