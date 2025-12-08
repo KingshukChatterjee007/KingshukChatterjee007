@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Kingshuk%20Chatterjee&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Design%20Analyst%20|%20Automotive%20Designer%20|%20Flutter%20Dev&descAlignY=60&descAlign=50" alt="header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Kingshuk%20Chatterjee&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Design%20Analyst%20|%20Automotive%20Designer%20|%20Flutter%20Dev&descAlignY=60&descAlign=50" alt="header" width="100%"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Slipstream+Studios;Building+Pixels+with+Pistons;Automotive+Design+%26+Flutter+Dev;Blending+Art+and+Code&font=Fira+Code&center=true&width=500&height=50&color=37BCF6&vCenter=true&pause=1000&size=25" alt="Typing SVG" />
@@ -15,7 +15,7 @@
     <a href="https://www.instagram.com/kingshuk_03/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-    <a href="https://twitter.com/YOUR_HANDLE_HERE">
+    <a href="https://twitter.com/">
       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
     </a>
   </p>
@@ -38,17 +38,16 @@ I am a multidisciplinary developer and designer based in **Bhubaneswar, India**.
 ---
 
 ## 🛠️ **The Tech Stack**
-*(Floating Icons)*
 
 <div align="center">
 
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,dart,flutter,cpp,ts,js,html,css,mysql,android,flask,react&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,dart,flutter,cpp,ts,js,html,css,android,flask&perline=10" />
   </a>
-  <br/><br/>
+  <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,xd,ps,blender,ai,pr,mongodb,git,vscode,azure,pbi,tableau&perline=6" />
+    <img src="https://skillicons.dev/icons?i=figma,xd,ps,blender,ai,pr,mongodb,git,vscode,azure,pbi,tableau&perline=10" />
   </a>
 
 </div>
@@ -56,23 +55,15 @@ I am a multidisciplinary developer and designer based in **Bhubaneswar, India**.
 ---
 
 ## 📊 **GitHub Analytics**
-*(Glass Mode - Best viewed in Dark Mode)*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KingshukChatterjee007&show_icons=true&theme=transparent&hide_border=true&title_color=37BCF6&text_color=ffffff&icon_color=37BCF6" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingshukChatterjee007&layout=compact&theme=transparent&hide_border=true&title_color=37BCF6&text_color=ffffff" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KingshukChatterjee007&show_icons=true&theme=tokyonight&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingshukChatterjee007&layout=compact&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KingshukChatterjee007&theme=transparent&hide_border=true&fire=EB4034&ring=37BCF6&currStreakLabel=37BCF6" alt="streak stats" />
-</div>
-
----
-
-## 🏆 **Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KingshukChatterjee007&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=10" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KingshukChatterjee007&theme=tokyonight&hide_border=false" alt="streak stats" />
 </div>
 
 ---
