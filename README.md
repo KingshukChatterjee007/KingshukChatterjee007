@@ -1,5 +1,4 @@
 ![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kingshuk%20Chatterjee&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Building%20Art%20from%20Machine&descAlignY=55&descAlign=50)<h1 align="center">
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+world+of+design;Automotive+Enthusiast+%26+Technologist;Building+Art+from+Machine;Flutter+Developer+%26+Data+Storyteller&font=Fira+Code&center=true&width=500&height=50&color=58A6FF&vCenter=true&pause=1000" alt="Typing SVG" />
 </p>
@@ -29,16 +28,24 @@
 ## 🛠️ My Tech Stack
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,dart,js,html,css,postgres,sqlite" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,dart,js,html,css,postgres,sqlite" />
+</div>
 
 ### 🧠 AI & Data Science
-<img src="https://skillicons.dev/icons?i=pandas,numpy,tensorflow,sklearn" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,tensorflow,sklearn" />
+</div>
 
 ### 📱 Mobile & Backend
-<img src="https://skillicons.dev/icons?i=flutter,android,flask,azure" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,android,flask,azure" />
+</div>
 
 ### 🎨 Design & Tools
-<img src="https://skillicons.dev/icons?i=figma,blender,ps,xd,canva,vscode,github,git" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma,blender,ps,xd,canva,vscode,github,git" />
+</div>
 
 ---
 
