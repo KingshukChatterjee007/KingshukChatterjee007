@@ -1,9 +1,11 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,00ff00,0000ff&height=280&section=header&text=Kingshuk%20Chatterjee&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Design%20Analyst%20|%20Automotive%20Designer%20|%20Flutter%20Dev&descAlignY=60&descAlign=50" alt="header" width="100%"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Kingshuk+Chatterjee;Design+Analyst;Automotive+Designer;Flutter+Developer&font=Fira+Code&center=true&width=500&height=60&color=FF0000;00FF00;0000FF&vCenter=true&pause=1000&size=35&weight=bold" alt="RGB Header" />
+  </a>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Slipstream+Studios;Building+Pixels+with+Pistons;Automotive+Design+%26+Flutter+Dev;Blending+Art+and+Code&font=Fira+Code&center=true&width=500&height=50&color=00FF00&vCenter=true&pause=1000&size=25" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Slipstream+Studios;Building+Pixels+with+Pistons;Blending+Art+and+Code&font=Fira+Code&center=true&width=500&height=30&color=00FFFF&vCenter=true&pause=1000&size=18" alt="Sub Header" />
   </a>
 
   <br/>
@@ -55,13 +57,13 @@ I am a multidisciplinary developer and designer based in **Bhubaneswar, India**.
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KingshukChatterjee007&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingshukChatterjee007&layout=compact&theme=radical" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KingshukChatterjee007&show_icons=true&theme=highcontrast&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingshukChatterjee007&layout=compact&theme=highcontrast&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KingshukChatterjee007&theme=radical" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KingshukChatterjee007&theme=highcontrast&hide_border=false" alt="streak stats" />
 </div>
 
 ---
@@ -79,7 +81,7 @@ I am a multidisciplinary developer and designer based in **Bhubaneswar, India**.
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/1c/15/23/1c1523e8c2e70c3002701c3120114131.gif" width="100%" style="border-radius: 10px;" />
+  <img src="https://i.pinimg.com/originals/2b/56/63/2b5663673f328f1181829e28f3cb244c.gif" width="100%" style="border-radius: 10px;" />
   <br/><br/>
   <i>"Elegance in code, clarity in design, beauty in form."</i>
 </div>
