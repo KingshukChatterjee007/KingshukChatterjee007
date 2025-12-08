@@ -15,8 +15,8 @@
     <a href="https://www.instagram.com/kingshuk_03/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-    <a href="https://twitter.com/">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <a href="https://github.com/KingshukChatterjee007">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
   </p>
 
@@ -43,7 +43,7 @@ I am a multidisciplinary developer and designer based in **Bhubaneswar, India**.
 
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,dart,flutter,cpp,ts,js,html,css,android,flask&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,flutter,cpp,ts,js,html,css,react,android,mysql&perline=10" />
   </a>
   <br/>
   <a href="https://skillicons.dev">
@@ -57,13 +57,13 @@ I am a multidisciplinary developer and designer based in **Bhubaneswar, India**.
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KingshukChatterjee007&show_icons=true&theme=tokyonight&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingshukChatterjee007&layout=compact&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KingshukChatterjee007&show_icons=true&theme=radical&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingshukChatterjee007&layout=compact&theme=radical&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KingshukChatterjee007&theme=tokyonight&hide_border=false" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KingshukChatterjee007&theme=radical&hide_border=false" alt="streak stats" />
 </div>
 
 ---
@@ -81,7 +81,7 @@ I am a multidisciplinary developer and designer based in **Bhubaneswar, India**.
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LpW8KyC0hYbD8d4opU/giphy.gif" width="100%" height="200" style="border-radius: 20px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%" style="border-radius: 20px;" />
   <br/><br/>
   <i>"Elegance in code, clarity in design, beauty in form."</i>
 </div>
