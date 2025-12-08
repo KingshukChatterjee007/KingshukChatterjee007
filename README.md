@@ -26,8 +26,6 @@
 
 ## 👨‍💻 **About Me**
 
-> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> **"Art from Machine."**
-
 I am a multidisciplinary developer and designer based in **Bhubaneswar, India**. Currently working at **Slipstream Studios**, I blend the raw mechanics of automotive design with the fluid logic of software development.
 
 - 🔭 **Current Focus:** Advanced Flutter Architecture & UX Systems
@@ -81,7 +79,7 @@ I am a multidisciplinary developer and designer based in **Bhubaneswar, India**.
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%" style="border-radius: 20px;" />
+  <img src="https://i.pinimg.com/originals/1c/15/23/1c1523e8c2e70c3002701c3120114131.gif" width="100%" style="border-radius: 10px;" />
   <br/><br/>
   <i>"Elegance in code, clarity in design, beauty in form."</i>
 </div>
