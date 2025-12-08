@@ -68,9 +68,17 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KingshukChatterjee007/KingshukChatterjee007/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+## 🏆 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KingshukChatterjee007&theme=gruvbox&no-frame=false&row=1&column=7&margin-w=10" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KingshukChatterjee007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
