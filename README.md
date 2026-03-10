@@ -1,16 +1,16 @@
-![Header Animation](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=250\&section=header\&text=Kingshuk%20Chatterjee\&fontSize=50\&animation=fadeIn\&fontAlignY=35\&desc=Building%20Systems%20Where%20Design%20Meets%20Intelligence\&descAlignY=55\&descAlign=50)
+![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kingshuk%20Chatterjee&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Building%20Art%20from%20Machine&descAlignY=55&descAlign=50)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Design+Engineer+%26+Technologist;AI+%7C+Mobile+%7C+Systems;Building+Products+from+Ideas;Flutter+Developer+%26+ML+Explorer&font=Fira+Code&center=true&width=500&height=50&color=58A6FF&vCenter=true&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+world+of+design;Automotive+Enthusiast+%26+Technologist;Building+Art+from+Machine;Flutter,+React+%26+Next.js+Developer&font=Fira+Code&center=true&width=500&height=50&color=58A6FF&vCenter=true&pause=1000" alt="Typing SVG" />
 </p>
 
-<h3 align="center">⚙️ Design Engineer | AI Developer | Mobile Developer | Systems Builder ⚙️</h3>
+<h3 align="center">⚙️ Design Analyst | Full-Stack Developer | Automotive Designer ⚙️</h3>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kingshuk-chatterjee-124101286/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/kingshuk_03/)
-
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kingshuk-chatterjee-124101286/)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kingshuk_03/)
+  
 </div>
 
 ---
