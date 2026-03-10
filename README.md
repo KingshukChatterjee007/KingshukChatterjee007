@@ -1,84 +1,105 @@
-![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kingshuk%20Chatterjee&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Building%20Art%20from%20Machine&descAlignY=55&descAlign=50)
+![Header Animation](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=250\&section=header\&text=Kingshuk%20Chatterjee\&fontSize=50\&animation=fadeIn\&fontAlignY=35\&desc=Building%20Systems%20Where%20Design%20Meets%20Intelligence\&descAlignY=55\&descAlign=50)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+world+of+design;Automotive+Enthusiast+%26+Technologist;Building+Art+from+Machine;Flutter+Developer+%26+Data+Storyteller&font=Fira+Code&center=true&width=500&height=50&color=58A6FF&vCenter=true&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Design+Engineer+%26+Technologist;AI+%7C+Mobile+%7C+Systems;Building+Products+from+Ideas;Flutter+Developer+%26+ML+Explorer&font=Fira+Code&center=true&width=500&height=50&color=58A6FF&vCenter=true&pause=1000" alt="Typing SVG" />
 </p>
 
-<h3 align="center">⚙️ Design Analyst | Automotive Designer | Mobile Developer | Data Visualizer ⚙️</h3>
+<h3 align="center">⚙️ Design Engineer | AI Developer | Mobile Developer | Systems Builder ⚙️</h3>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kingshuk-chatterjee-124101286/)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kingshuk_03/)
-  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kingshuk-chatterjee-124101286/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/kingshuk_03/)
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎨 Passionate about **design, creativity, and technology**
-- 🏁 Automotive Designer & Poster Artist at **Slipstream Studios**
-- 📱 Exploring the world of **Mobile App Development** with Flutter
-- 🗂️ Collector of diecast models | 🛠️ Open Source Enthusiast
-- 📍 Based in **Bhubaneswar, India**
-- ⚡ **Fun Fact:** I build **art from machine**, blending **pixels with pistons**.
+I enjoy building systems where **design, data, and engineering meet**.
+
+My work spans **AI models, mobile applications, and system architecture**, with a focus on turning technical ideas into usable products.
+
+* 🎨 Automotive designer and poster artist at **Slipstream Studios**
+* 📱 Building **mobile apps using Flutter**
+* 🤖 Working on **machine learning and data systems**
+* 🧠 Interested in **AI, visualization, and product design**
+* 📍 Based in **Bhubaneswar, India**
+
+⚡ *I enjoy turning complex systems into elegant products.*
 
 ---
 
-## 🛠️ My Tech Stack
+# 🛠 Tech Stack
 
 ### 💻 Languages
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,dart,js,html,css,postgres,sqlite" />
-</div>
 
-### 🧠 AI & Data Science
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
-</div>
+<img src="https://skillicons.dev/icons?i=python,dart,js,html,css,postgres,sqlite" />
+
+### 🤖 AI & Data Science
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
 
 ### 📱 Mobile & Backend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,flask,azure" />
-</div>
+
+<img src="https://skillicons.dev/icons?i=flutter,flask,azure" />
 
 ### 🎨 Design & Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,blender,ps,xd,vscode,github,git" />
-</div>
 
----
-## 🎓 Academic Achievements
-
-- 📜 **Research Paper Accepted:** "Stock Earnings Forecasting via News Factor Analyzing Model" accepted for publication in *Elsevier Procedia Computer Science* and selected for presentation at **ICMLDE 2025**.
-- 🥈 **Hackathon Success:** Qualified for the 2nd round of the **Nirman 4.0 Hackathon** at Silicon University.
-- 🤝 **Community Leadership:** Active **KSRC Member** for 2+ years.
+<img src="https://skillicons.dev/icons?i=figma,blender,ps,xd,vscode,github,git" />
 
 ---
 
-## 🚀 Featured Projects
+# 🎓 Academic Highlights
 
-| 🌟 Project | 🔖 Description | ⚙️ Tech Used |
-| :--- | :--- | :--- |
-| **Vibe Music Player** | Neumorphic Local Music Player with Dark Mode & BLoC Architecture | Flutter, Dart, BLoC, SQLite |
-| **FinReport: Earnings** | Stock forecasting using ML + financial sentiment analysis | Python, Pandas, Sklearn, Flask |
-| **LiDAR Viz Research** | 3D LiDAR visualization in browser | HTML, CSS, JavaScript |
-| **IBM NLP Final** | Emotion analysis of text using IBM Watson NLP APIs | Python, Flask, IBM NLP |
-| **Poster Studio** | Automotive Poster Project: Realistic Compositions | Figma, Photoshop, Blender |
+📜 **Research Paper Accepted**
+
+"Stock Earnings Forecasting via News Factor Analyzing Model"
+Accepted in **Elsevier Procedia Computer Science**
+Selected for presentation at **ICMLDE 2025**
+
+🥈 **Hackathon**
+
+Qualified for **Round 2 – Nirman 4.0 Hackathon**
+Silicon University
+
+🤝 **Community**
+
+Active **KSRC Member** for over **2 years**
 
 ---
 
-## 🏁 Extra Activities
+# 🚀 Featured Projects
 
-- 🎨 **Automotive Poster Creator & Concept Illustrator**
-- 🛠️ **Diecast Model Collector & Automotive Enthusiast**
-- 🤝 **Open to meaningful collaborations** in UI/UX, analytics, and web development
-- 🗣️ **Public Speaking** at University events related to creativity & tech
-- ✨ **Mentor & Guide** for juniors in tech design
+| Project                  | Description                                                                                               | Tech                        |
+| ------------------------ | --------------------------------------------------------------------------------------------------------- | --------------------------- |
+| **Krishi Sahayak**       | AI-powered agricultural advisory platform integrating ML models, weather insights, and mobile/web systems | Python, Flutter, ML         |
+| **FinReport**            | Explainable stock earnings forecasting using financial news sentiment and machine learning models         | Python, Pandas, Sklearn     |
+| **Road Damage Detector** | Computer vision system detecting road surface damage for infrastructure monitoring                        | Python, OpenCV, ML          |
+| **Vibe Music Player**    | Neumorphic local music player built using BLoC architecture with dark mode support                        | Flutter, Dart, SQLite       |
+| **KrownFrame**           | Lightweight UI framework focused on clean component design and reusable interface systems                 | JavaScript, UI Architecture |
+
+
+---
+
+# 🏁 Creative Work
+
+Outside engineering I work on **automotive concept art and digital posters**.
+
+* Automotive poster compositions
+* Concept vehicle visualization
+* Diecast model collection
+
+Design for me is not separate from engineering.
+It is simply **engineering with aesthetics.**
+
+---
 
 <p align="center">
   <img src="https://media.tenor.com/Dn8EZpHkciMAAAAC/sosuke-aizen-bleach.gif" width="450"/>
 </p>
 
-> *"Elegance in code, clarity in design, beauty in form."* — *Kingshuk Chatterjee*
+<p align="center">
+<i>"Elegance in engineering, clarity in design, precision in systems."</i>
+</p>
