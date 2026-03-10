@@ -74,12 +74,11 @@ Active **KSRC Member** for over **2 years**
 
 | Project                  | Description                                                                                               | Tech                        |
 | ------------------------ | --------------------------------------------------------------------------------------------------------- | --------------------------- |
-| **Krishi Sahayak**       | AI-powered agricultural advisory platform integrating ML models, weather insights, and mobile/web systems | Python, Flutter, ML         |
-| **FinReport**            | Explainable stock earnings forecasting using financial news sentiment and machine learning models         | Python, Pandas, Sklearn     |
+| **Krishi Sahayak** | AI-powered agricultural advisory platform integrating ML models, weather insights, and mobile/web systems | Python, Flutter, ML         |
+| **FinReport** | Explainable stock earnings forecasting using financial news sentiment and machine learning models         | Python, Pandas, Sklearn     |
 | **Road Damage Detector** | Computer vision system detecting road surface damage for infrastructure monitoring                        | Python, OpenCV, ML          |
-| **Vibe Music Player**    | Neumorphic local music player built using BLoC architecture with dark mode support                        | Flutter, Dart, SQLite       |
-| **KrownFrame**           | Lightweight UI framework focused on clean component design and reusable interface systems                 | JavaScript, UI Architecture |
-
+| **AI Clot Monitoring** | [AI Integration in Wearables for Clot Monitoring](https://github.com/KingshukChatterjee007/AI-Integration-in-Wearables-for-Clot-Monitoring) | Python, ML, Wearables       |
+| **KrownFrame** | Lightweight UI framework focused on clean component design and reusable interface systems                 | JavaScript, UI Architecture |
 
 ---
 
