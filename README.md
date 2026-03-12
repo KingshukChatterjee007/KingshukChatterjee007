@@ -77,7 +77,7 @@ Active **KSRC Member** for over **2 years**
 | **Krishi Sahayak** | AI-powered agricultural advisory platform integrating ML models, weather insights, and mobile/web systems | Python, Flutter, ML         |
 | **FinReport** | Explainable stock earnings forecasting using financial news sentiment and machine learning models         | Python, Pandas, Sklearn     |
 | **Road Damage Detector** | Computer vision system detecting road surface damage for infrastructure monitoring                        | Python, OpenCV, ML          |
-| **AI Clot Monitoring** | AI-driven system integrated with wearable devices for real-time blood clot detection and health analysis  | Python, ML, Wearables       |
+| **AI Clot Monitoring** | AI-driven system integrated with wearable devices for real-time blood clot detection and health analysis  | Python, ML, Pirelining , Dep learning & Neural networking    |
 | **KrownFrame** | Lightweight UI framework focused on clean component design and reusable interface systems                 | JavaScript, UI Architecture |
 
 ---
