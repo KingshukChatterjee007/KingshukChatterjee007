@@ -31,24 +31,21 @@ My work spans **AI models, mobile applications, and system architecture**, with 
 
 ---
 
-# 🛠 Tech Stack
-
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,dart,js,html,css,postgres,sqlite" />
+<img src="https://skillicons.dev/icons?i=python,dart,js,ts,html,css,postgres,sqlite" />
 
 ### 🤖 AI & Data Science
 
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy,opencv" />
 
-### 📱 Mobile & Backend
+### 📱 Web, Mobile & Backend
 
-<img src="https://skillicons.dev/icons?i=flutter,flask,azure" />
+<img src="https://skillicons.dev/icons?i=flutter,react,next,flask,azure" />
 
 ### 🎨 Design & Tools
 
-<img src="https://skillicons.dev/icons?i=figma,blender,ps,xd,vscode,github,git" />
-
+<img src="https://skillicons.dev/icons?i=figma,blender,ps,xd,vscode,github,git,vercel" />
 ---
 
 # 🎓 Academic Highlights
