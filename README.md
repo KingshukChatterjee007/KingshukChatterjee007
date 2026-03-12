@@ -82,6 +82,8 @@ Active **KSRC Member** for over **2 years**
 
 ---
 
+![snake gif](https://raw.githubusercontent.com/KingshukChatterjee007/KingshukChatterjee007/output/github-contribution-grid-snake-dark.svg)
+
 # 🏁 Creative Work
 
 Outside engineering I work on **automotive concept art and digital posters**.
