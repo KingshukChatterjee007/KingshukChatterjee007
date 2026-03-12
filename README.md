@@ -38,6 +38,9 @@ My work spans **AI models, mobile applications, and system architecture**, with 
 ### 🤖 AI & Data Science
 
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" />
+<br>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 
 ### 📱 Web, Mobile & Backend
 
