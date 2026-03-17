@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+world+of+design;Automotive+Enthusiast+%26+Technologist;Building+Art+from+Machine;Flutter,+React+%26+Next.js+Developer&font=Fira+Code&center=true&width=500&height=50&color=58A6FF&vCenter=true&pause=1000" alt="Typing SVG" />
 </p>
 
-<h3 align="center">⚙️ Design Analyst | Full-Stack Developer | Automotive Designer ⚙️</h3>
+<h3 align="center">⚙️ ML desginer | Full-Stack Developer | UI\UX ⚙️</h3>
 
 <div align="center">
   
