@@ -17,15 +17,15 @@
 
 ## 🚀 About Me
 
-[cite_start]My work spans **machine learning research, full-stack development, and industrial systems**, focusing on bridging the gap between advanced engineering and functional product design[cite: 2, 15, 31].
+My work spans **machine learning research, full-stack development, and industrial systems**, focusing on bridging the gap between advanced engineering and functional product design
 
-* [cite_start]🔬 **AI & Machine Learning Research**: Developing hybrid architectures like CNN-Transformer-BiLSTM for clinical wearables and PINNs for solving fluid dynamics[cite: 37, 44].
-* [cite_start]📱 **Mobile & Web Development**: Building high-performance platforms using **Flutter and React**, including AI-powered agricultural tools and food-ordering apps[cite: 15, 23, 42].
-* [cite_start]🛠️ **Systems & UI Design**: Architecting real-time monitoring interfaces for Solar EV systems and large-scale system loggers[cite: 31, 46].
-* [cite_start]🎨 **Product Design**: Leveraging the **Adobe Suite and Figma** to create high-fidelity landing pages and industrial dashboards[cite: 17, 27, 47].
-* [cite_start]📍 **Based in Bhubaneswar, India**: Currently pursuing a B.Tech in Computer Science at **KIIT University**[cite: 3, 7, 8].
+* 🔬 **AI & Machine Learning Research**: Developing hybrid architectures like CNN-Transformer-BiLSTM for clinical wearables and PINNs for solving fluid dynamics
+* 📱 **Mobile & Web Development**: Building high-performance platforms using **Flutter and React**, including AI-powered agricultural tools and food-ordering apps
+* 🛠️ **Systems & UI Design**: Architecting real-time monitoring interfaces for Solar EV systems and large-scale system loggers
+* 🎨 **Product Design**: Leveraging the **Adobe Suite and Figma** to create high-fidelity landing pages and industrial dashboards
+* 📍 **Based in Bhubaneswar, India**: Currently pursuing a B.Tech in Computer Science at **KIIT University**
 
-[cite_start]⚡ *I enjoy turning complex technical ideas into elegant, usable products.* [cite: 2]
+⚡ *I enjoy turning complex technical ideas into elegant, usable products.* 
 
 ---
 
