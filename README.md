@@ -73,10 +73,13 @@ Active **KSRC Member** for over **2 years**
 | Project                  | Description                                                                                               | Tech                        |
 | ------------------------ | --------------------------------------------------------------------------------------------------------- | --------------------------- |
 | **Krishi Sahayak** | AI-powered agricultural advisory platform integrating ML models, weather insights, and mobile/web systems | Python, Flutter, ML         |
+| **Dynamic Gradient Balancing (PINN)** | Developed a robust PINN architecture utilizing PCGrad, RAR, and EMA balancers to stabilize
+Navier-Stokes simulations, achieving near-perfect convergence <1% where baseline models diverged by over 136,000%.  | Python , Physics, ML |
 | **FinReport** | Explainable stock earnings forecasting using financial news sentiment and machine learning models  (ICMLDE Conference Paper)       | Python, Pandas, Sklearn     |
 | **Road Damage Detector** | Computer vision system detecting road surface damage for infrastructure monitoring                        | Python, OpenCV, ML          |
 | **AI Clot Monitoring** |Engineered a Spatial-Relational-Temporal Hybrid model (CNN, Transformer, Bi-LSTM) to analyze 30,612+ physiological samples (BVP, EDA, Temp); implemented Level-4 Daubechies Wavelet Denoising and Bayesian Probability Gating to ensure zero missed life-critical events | Python, ML, Pirelining , Deep learning & Neural networking    |
 | **Sys Logger** | a high-throughput system observability platform using Next.js and Flask, architecting a real-time telemetry pipeline to ingest and preprocess millions of data points for downstream ML-driven anomaly detection and capacity forecasting                 | Python , PostgreSQL, ML |
+| **CamTrak** | DCamTrak is a Python-based computer vision application that allows you to control your computer's mouse cursor and perform clicks using hand gestures via a webcam for disabled patients (in developmemt)  | Python , OpenCV, Media pipe |
 
 ---
 
