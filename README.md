@@ -13,6 +13,12 @@
   
 </div>
 
+<p align="center">
+  <a href="https://github.com/KingshukChatterjee007?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=KingshukChatterjee007&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff" alt="GitHub Stats" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -25,9 +31,7 @@ My work spans **machine learning research, full-stack development, and industria
 * 🎨 **Product Design**: Leveraging the **Adobe Suite and Figma** to create high-fidelity landing pages and industrial dashboards
 * 📍 **Based in Bhubaneswar, India**: Currently pursuing a B.Tech in Computer Science at **KIIT University**
 
-⚡ *I enjoy turning complex technical ideas into elegant, usable products.* 
-
----
+⚡ *I enjoy turning complex technical ideas into elegant, usable products.* ---
 
 ### 💻 Languages
 
@@ -47,6 +51,7 @@ My work spans **machine learning research, full-stack development, and industria
 ### 🎨 Design & Tools
 
 <img src="https://skillicons.dev/icons?i=figma,blender,ps,xd,vscode,github,git,vercel" />
+
 ---
 
 # 🎓 Academic Highlights
@@ -70,15 +75,17 @@ Active **KSRC Member** for over **2 years**
 
 # 🚀 Featured Projects
 
-| Project                  | Description                                                                                               | Tech                        |
-| ------------------------ | --------------------------------------------------------------------------------------------------------- | --------------------------- |
-| **Krishi Sahayak** | AI-powered agricultural advisory platform integrating ML models, weather insights, and mobile/web systems | Python, Flutter, ML         |
-| **Dynamic Gradient Balancing (PINN)** | Developed a robust PINN architecture utilizing PCGrad, RAR, and EMA balancers to stabilize Navier-Stokes simulations, achieving near-perfect convergence <1% where baseline models diverged by over 136,000%. | Python , Physics,ML , Neural networking |
-| **FinReport** | Explainable stock earnings forecasting using financial news sentiment and machine learning models  (ICMLDE Conference Paper)       | Python, Pandas, Sklearn     |
-| **Road Damage Detector** | Computer vision system detecting road surface damage for infrastructure monitoring                        | Python, OpenCV, ML          |
-| **AI Clot Monitoring** |Developed the SWAT Tier clinical-grade wearable system, utilizing a Bayesian triple-encoder hybrid (CNN-Transformer-BiLSTM) and WGAN-GP data synthesis to achieve 86% Critical Recall in predicting post surgical blood clots | Python, ML, Pirelining , Deep learning & Neural networking   |
-| **Sys Logger** | a high-throughput system observability platform using Next.js and Flask, architecting a real-time telemetry pipeline to ingest and preprocess millions of data points for downstream ML-driven anomaly detection and capacity forecasting                 | Python , PostgreSQL, ML |
-| **CamTrak** | CamTrak is a Python-based computer vision application that allows you to control your computer's mouse cursor and perform clicks using hand gestures via a webcam for disabled patients (in developmemt)  | Python , OpenCV, Media pipe |
+| Project                  | Description                                                                                                                               | Tech                        | Stars |
+| ------------------------ | --------------------------------------------------------------------------------------------------------- | --------------------------- | ----- |
+| **Krishi Sahayak** | AI-powered agricultural advisory platform integrating ML models, weather insights, and mobile/web systems | Python, Flutter, ML         | [![Stars](https://img.shields.io/github/stars/KingshukChatterjee007/Krishi-Sahayak?style=social)](https://github.com/KingshukChatterjee007/Krishi-Sahayak/stargazers) |
+| **Dynamic Gradient Balancing (PINN)** | Developed a robust PINN architecture utilizing PCGrad, RAR, and EMA balancers to stabilize Navier-Stokes simulations, achieving near-perfect convergence <1% where baseline models diverged by over 136,000%. | Python , Physics,ML , Neural networking | [![Stars](https://img.shields.io/github/stars/KingshukChatterjee007/DGB-PINN?style=social)](https://github.com/KingshukChatterjee007/DGB-PINN/stargazers) |
+| **FinReport** | Explainable stock earnings forecasting using financial news sentiment and machine learning models  (ICMLDE Conference Paper)       | Python, Pandas, Sklearn     | [![Stars](https://img.shields.io/github/stars/KingshukChatterjee007/FinReport?style=social)](https://github.com/KingshukChatterjee007/FinReport/stargazers) |
+| **Road Damage Detector** | Computer vision system detecting road surface damage for infrastructure monitoring                        | Python, OpenCV, ML          | [![Stars](https://img.shields.io/github/stars/KingshukChatterjee007/Road-Damage-Detector?style=social)](https://github.com/KingshukChatterjee007/Road-Damage-Detector/stargazers) |
+| **AI Clot Monitoring** |Developed the SWAT Tier clinical-grade wearable system, utilizing a Bayesian triple-encoder hybrid (CNN-Transformer-BiLSTM) and WGAN-GP data synthesis to achieve 86% Critical Recall in predicting post surgical blood clots | Python, ML, Pirelining , Deep learning & Neural networking   | [![Stars](https://img.shields.io/github/stars/KingshukChatterjee007/AI-Clot-Monitoring?style=social)](https://github.com/KingshukChatterjee007/AI-Clot-Monitoring/stargazers) |
+| **Sys Logger** | a high-throughput system observability platform using Next.js and Flask, architecting a real-time telemetry pipeline to ingest and preprocess millions of data points for downstream ML-driven anomaly detection and capacity forecasting                 | Python , PostgreSQL, ML | [![Stars](https://img.shields.io/github/stars/KingshukChatterjee007/Sys-Logger?style=social)](https://github.com/KingshukChatterjee007/Sys-Logger/stargazers) |
+| **CamTrak** | CamTrak is a Python-based computer vision application that allows you to control your computer's mouse cursor and perform clicks using hand gestures via a webcam for disabled patients (in developmemt)  | Python , OpenCV, Media pipe | [![Stars](https://img.shields.io/github/stars/KingshukChatterjee007/CamTrak?style=social)](https://github.com/KingshukChatterjee007/CamTrak/stargazers) |
+
+*(Note: Ensure the repository names in the Star badge URLs match your exact GitHub repository names for the badges to render correctly.)*
 
 ---
 
