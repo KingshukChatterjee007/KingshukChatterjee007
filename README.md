@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/T0b_i5L3JzEAAAAC/aizen-sosuke.gif" width="450" alt="Aizen"/>
+  <img src="aizen%20giff.gif" width="450" alt="Aizen"/>
 </p>
 
 ---
