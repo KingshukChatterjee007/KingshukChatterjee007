@@ -14,9 +14,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/KingshukChatterjee007?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=KingshukChatterjee007&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff" alt="GitHub Stats" />
-  </a>
+  <img src="https://media1.tenor.com/m/T0b_i5L3JzEAAAAC/aizen-sosuke.gif" width="450" alt="Aizen"/>
 </p>
 
 ---
