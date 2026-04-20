@@ -29,7 +29,7 @@ My work spans **machine learning research, full-stack development, and industria
 * 🎨 **Product Design**: Leveraging the **Adobe Suite and Figma** to create high-fidelity landing pages and industrial dashboards
 * 📍 **Based in Bhubaneswar, India**: Currently pursuing a B.Tech in Computer Science at **KIIT University**
 
-⚡ *I enjoy turning complex technical ideas into elegant, usable products.* ---
+⚡ *I enjoy turning complex technical ideas into elegant, usable products, like to work with Ml and gen ai.* ---
 
 ### 💻 Languages
 
