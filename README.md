@@ -102,9 +102,7 @@ It is simply **engineering with aesthetics.**
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KingshukChatterjee007&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
-</p>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KingshukChatterjee007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kingshuk's GitHub Stats" />
