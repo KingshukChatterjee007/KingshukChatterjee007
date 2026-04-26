@@ -102,9 +102,12 @@ It is simply **engineering with aesthetics.**
 
 ---
 
-<p align="center">
-  <img src="https://media.tenor.com/Dn8EZpHkciMAAAAC/sosuke-aizen-bleach.gif" width="450"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KingshukChatterjee007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kingshuk's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingshukChatterjee007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KingshukChatterjee007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <p align="center">
 <i>"Elegance in engineering, clarity in design, precision in systems."</i>
