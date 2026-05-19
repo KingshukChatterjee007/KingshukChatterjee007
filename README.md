@@ -104,13 +104,18 @@ It is simply **engineering with aesthetics.**
 
 
 
-<p align="center">
-  ![Kingshuk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KingshukChatterjee007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=KingshukChatterjee007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kingshuk's GitHub Stats" />
+  </a>
   <br />
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KingshukChatterjee007&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingshukChatterjee007&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  </a>
   <br />
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KingshukChatterjee007&theme=tokyonight&hide_border=true)
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KingshukChatterjee007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
 
 <p align="center">
 <i>"Elegance in engineering, clarity in design, precision in systems."</i>
