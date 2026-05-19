@@ -104,17 +104,13 @@ It is simply **engineering with aesthetics.**
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KingshukChatterjee007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kingshuk's GitHub Stats" />
-  
+<p align="center">
+  ![Kingshuk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KingshukChatterjee007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
   <br />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingshukChatterjee007&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KingshukChatterjee007&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
   <br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KingshukChatterjee007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KingshukChatterjee007&theme=tokyonight&hide_border=true)
+</p>
 
 <p align="center">
 <i>"Elegance in engineering, clarity in design, precision in systems."</i>
