@@ -23,7 +23,7 @@
 
 My work spans **machine learning research, full-stack development, and industrial systems**, focusing on bridging the gap between advanced engineering and functional product design
 
-* 🔬 **AI & Machine Learning Research**: Developing hybrid architectures like CNN-Transformer-BiLSTM for clinical wearables and PINNs for solving fluid dynamics
+* 🔬 **AI & Machine Learning Research**: Developing hybrid architectures like CNN-Transformer-BiLSTM for clinical wearables and PINNs for solving fluid dynamics and Custom trading algo
 * 📱 **Mobile & Web Development**: Building high-performance platforms using **Flutter and React**, including AI-powered agricultural tools and food-ordering apps
 * 🛠️ **Systems & UI Design**: Architecting real-time monitoring interfaces for Solar EV systems and large-scale system loggers
 * 🎨 **Product Design**: Leveraging the **Adobe Suite and Figma** to create high-fidelity landing pages and industrial dashboards
