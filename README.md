@@ -1,4 +1,3 @@
-@@ -1,55 +1,25 @@
 ![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kingshuk%20Chatterjee&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Building%20Art%20from%20Machine&descAlignY=55&descAlign=50)
 
 <p align="center">
