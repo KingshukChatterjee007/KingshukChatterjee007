@@ -37,48 +37,60 @@ My work spans **machine learning research, full-stack development, and industria
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,rust,sql" />
 </p>
 
-### 🤖 AI & Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
+## ⚡ Tech Stack
 
-- Physics-Informed Neural Networks (PINNs)
-- Deep Learning (CNNs, LSTMs, Transformers)
-- Reinforcement Learning (PPO, CleanRL)
-- Computer Vision
-- Time-Series Forecasting
-- Feature Engineering
-- Quantitative Finance
-- CUDA Kernels & OpenAI Triton
-- AVX2 SIMD Optimization
+### Languages
+Python • C++ • Rust • C • JavaScript • SQL
 
-### 🌐 Web, Mobile & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,fastapi,flutter,firebase,mongodb,postgres,supabase" />
-</p>
+### AI & Machine Learning
+PyTorch • TensorFlow • OpenCV • PINNs • CNNs • Transformers • LSTMs • Reinforcement Learning • Computer Vision • Time-Series Forecasting • CUDA • OpenAI Triton • AVX2 SIMD
 
-### 🎨 Design & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,figma,blender,photoshop,vscode" />
-</p>
+### Full Stack Development
+React • Next.js • Node.js • Flask • FastAPI • Flutter • MongoDB • PostgreSQL • Firebase • Supabase
+
+### Design & Developer Tools
+Git • REST APIs • Figma • Photoshop • Blender • VS Code
+
+# 🏆 Academic Highlights
+
+### 📄 Research Publication
+
+**Stock Earnings Forecasting via News Factor Analyzing Model**
+
+Published in **Elsevier Procedia Computer Science (Volume 267, 2026)**
+
+Presented at **ICMLDE 2025**
+
+🔗 [Read the paper on ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1877050926020521)
+
 ---
 
-# Academic Highlights
+### 🏅 Hackathon
 
-**Research Paper Accepted**
+**Nirman 4.0 National Hackathon**
 
-"Stock Earnings Forecasting via News Factor Analyzing Model"
-Accepted in **Elsevier Procedia Computer Science**
-Selected for presentation at **ICMLDE 2025**
+Qualified for **Round 2**
 
-**Hackathon**
+Hosted by **Silicon University**
 
-Qualified for **Round 2 – Nirman 4.0 Hackathon**
-Silicon University
+---
 
-**Community**
+### 🚀 Government Funded Projects
 
-Active **KSRC Member** for over **2 years**
+**Krishi Sahayak** *(Funded by NIELIT, Government of India)*
+
+- AI-powered agricultural platform for crop disease detection, weather intelligence, and precision farming recommendations.
+
+**Sys Logger**
+
+- Enterprise system observability platform developed under a **NIELIT Government of India initiative**, monitoring 100+ production endpoints in real time.
+
+---
+
+### 🤝 Community & Research
+
+- **Research Member**, KIIT Research & Software Club (KRSC)
+- Contributed to AI, Machine Learning, and Systems Research throughout undergraduate studies.
 
 ---
 
