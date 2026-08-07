@@ -34,13 +34,34 @@ My work spans **machine learning research, full-stack development, and industria
 ---
 
 ### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,rust,sql" />
+</p>
 
-### AI & Data Science
+### 🤖 AI & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
 
-### Web, Mobile & Backend
+- Physics-Informed Neural Networks (PINNs)
+- Deep Learning (CNNs, LSTMs, Transformers)
+- Reinforcement Learning (PPO, CleanRL)
+- Computer Vision
+- Time-Series Forecasting
+- Feature Engineering
+- Quantitative Finance
+- CUDA Kernels & OpenAI Triton
+- AVX2 SIMD Optimization
 
-### Design & Tools
+### 🌐 Web, Mobile & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,fastapi,flutter,firebase,mongodb,postgres,supabase" />
+</p>
 
+### 🎨 Design & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,figma,blender,photoshop,vscode" />
+</p>
 ---
 
 # Academic Highlights
