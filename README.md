@@ -1,3 +1,24 @@
+@@ -1,55 +1,25 @@
+![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kingshuk%20Chatterjee&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Building%20Art%20from%20Machine&descAlignY=55&descAlign=50)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+world+of+design;Automotive+Enthusiast+%26+Technologist;Building+Art+from+Machine;Flutter,+React+%26+Next.js+Developer&font=Fira+Code&center=true&width=500&height=50&color=58A6FF&vCenter=true&pause=1000" alt="Typing SVG" />
+</p>
+
+<h3 align="center">⚙️ ML desginer | Full-Stack Developer | Software Dev ⚙️</h3>
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kingshuk-chatterjee-124101286/)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kingshuk_03/)
+  
+</div>
+
+<p align="center">
+  <img src="aizen%20giff.gif" width="450" alt="Aizen"/>
+</p>
+
+---
 ## About Me
 
 My work spans **machine learning research, full-stack development, and industrial systems**, focusing on bridging the gap between advanced engineering and functional product design.
