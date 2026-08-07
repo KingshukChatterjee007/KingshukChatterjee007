@@ -31,14 +31,6 @@ My work spans **machine learning research, full-stack development, and industria
 ⚡ *I enjoy turning complex technical ideas into elegant, usable products, and I especially like working with ML and GenAI.*
 
 ---
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,rust,sql" />
-</p>
-
-## ⚡ Tech Stack
-
 ### Languages
 Python • C++ • Rust • C • JavaScript • SQL
 
@@ -52,46 +44,28 @@ React • Next.js • Node.js • Flask • FastAPI • Flutter • MongoDB • 
 Git • REST APIs • Figma • Photoshop • Blender • VS Code
 
 # 🏆 Academic Highlights
-
 ### 📄 Research Publication
-
 **Stock Earnings Forecasting via News Factor Analyzing Model**
-
 Published in **Elsevier Procedia Computer Science (Volume 267, 2026)**
-
 Presented at **ICMLDE 2025**
-
 🔗 [Read the paper on ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1877050926020521)
 
 ---
-
 ### 🏅 Hackathon
-
 **Nirman 4.0 National Hackathon**
-
 Qualified for **Round 2**
-
 Hosted by **Silicon University**
-
 ---
-
 ### 🚀 Government Funded Projects
-
 **Krishi Sahayak** *(Funded by NIELIT, Government of India)*
-
 - AI-powered agricultural platform for crop disease detection, weather intelligence, and precision farming recommendations.
 
 **Sys Logger**
-
 - Enterprise system observability platform developed under a **NIELIT Government of India initiative**, monitoring 100+ production endpoints in real time.
-
 ---
-
 ### 🤝 Community & Research
-
 - **Research Member**, KIIT Research & Software Club (KRSC)
 - Contributed to AI, Machine Learning, and Systems Research throughout undergraduate studies.
-
 ---
 
 # Featured Projects
