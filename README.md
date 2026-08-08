@@ -1,94 +1,91 @@
-![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kingshuk%20Chatterjee&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Building%20Art%20from%20Machine&descAlignY=55&descAlign=50)
+<div align="center">
+
+# <font color="#00D2FF">❄️ KINGSHUK CHATTERJEE ❄️</font>
+### **<font color="#80E5FF">Software Developer · ML Engineer · Systems Architect</font>**
+📍 *<font color="#00D2FF">Quatre Bornes, Mauritius</font>*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kingshuk-chatterjee-124101286/)
+[![GitHub](https://img.shields.io/badge/GitHub-00D2FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/KingshukChatterjee007)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d2ff?style=for-the-badge&logo=google-chrome&logoColor=black)](https://kingshukchatterjee.in/)
+[![Email](https://img.shields.io/badge/Email-00D2FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:kingshuk.chatterjee770@gmail.com)
+
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+world+of+design;Automotive+Enthusiast+%26+Technologist;Building+Art+from+Machine;Flutter,+React+%26+Next.js+Developer&font=Fira+Code&center=true&width=500&height=50&color=58A6FF&vCenter=true&pause=1000" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/andrei-br/andrei-br/main/assets/line.gif" width="100%" />
 </p>
-
-<h3 align="center">⚙️ ML desginer | Full-Stack Developer | Software Dev ⚙️</h3>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kingshuk-chatterjee-124101286/)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kingshuk_03/)
-  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Bankai+Daiguren+Hy%C5%8Drinmaru;Reign+over+the+frosted+heavens;Absolute+Zero+Engineering)](https://git.io/typing-svg)
+
+<img src="./Toshiro%20Hitsugaya%20Bankai%20GIF%20-%20Toshiro%20Hitsugaya%20Hitsugaya%20Bankai%20-%20Discover%20%26%20Share%20GIFs.gif" width="100%" alt="Toshiro Hitsugaya Bankai" />
+
+</div>
+
+> <font color="#00D2FF">Spanning machine learning research, bare-metal systems, and full-stack architecture—bridging complex engineering with absolute precision.</font>
+
 <p align="center">
-  <img src="https://in.pinterest.com/pin/717198309435163724/" width="450" alt="Aizen">
+  <img src="https://raw.githubusercontent.com/andrei-br/andrei-br/main/assets/line.gif" width="100%" />
 </p>
 
----
-## About Me
+### <font color="#00D2FF">❄️ TECH ARSENAL</font>
 
-My work spans **machine learning research, full-stack development, and industrial systems**, focusing on bridging the gap between advanced engineering and functional product design.
+| Realm | Domain & Tech Stack |
+| :--- | :--- |
+| **<font color="#80E5FF">Languages</font>** | `Python` `C` `C++` `Rust` `JavaScript` `SQL` |
+| **<font color="#80E5FF">Machine Learning & Systems</font>** | `PyTorch` `TensorFlow` `PINNs` `CNNs` `LSTMs` `Transformers` `CUDA` `OpenAI Triton` `AVX2 SIMD` `OpenCV` `CleanRL` |
+| **<font color="#80E5FF">Full Stack & BaaS</font>** | `React` `Node.js` `Flask` `FastAPI` `Flutter` `MongoDB` `PostgreSQL` `Supabase` `Firebase` |
+| **<font color="#80E5FF">Developer & Design Tools</font>** | `Git` `REST APIs` `Figma` `Blender` `Photoshop` `PM2` |
 
-* 🔬 **AI & Machine Learning Research**: Developing hybrid architectures like CNN-Transformer-BiLSTM for clinical wearables, PINNs for fluid dynamics, and custom trading models
-* 📱 **Mobile & Web Development**: Building high-performance platforms using **Flutter and React**, including AI-powered agricultural tools and food-ordering apps
-* 🛠️ **Systems & UI Design**: Architecting real-time monitoring interfaces for Solar EV systems and large-scale system loggers
-* 🎨 **Product Design**: Leveraging the **Adobe Suite and Figma** to create high-fidelity landing pages and industrial dashboards
-* 📍 **Based in Bhubaneswar, India**: Currently pursuing a B.Tech in Computer Science at **KIIT University**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andrei-br/andrei-br/main/assets/line.gif" width="100%" />
+</p>
 
-⚡ *I enjoy turning complex technical ideas into elegant, usable products, and I especially like working with ML and GenAI.*
+### <font color="#00D2FF">❄️ ACADEMIC & RESEARCH HIGHLIGHTS</font>
 
----
-### Languages
-Python • C++ • Rust • C • JavaScript • SQL
+* ❄️ **<font color="#80E5FF">Stock Earnings Forecasting via News Factor Analyzing Model</font>** Published in *Elsevier Procedia Computer Science (Vol. 267, 2026)* · Presented at *ICMLDE 2025* Applied NLP sentiment analysis and quantitative financial indicators to build an ML earnings forecasting model.
 
-### AI & Machine Learning
-PyTorch • TensorFlow • OpenCV • PINNs • CNNs • Transformers • LSTMs • Reinforcement Learning • Computer Vision • Time-Series Forecasting • CUDA • OpenAI Triton • AVX2 SIMD
+* ❄️ **<font color="#80E5FF">Nirman 4.0 National Hackathon</font>** Qualified for Round 2, hosted by Silicon University.
 
-### Full Stack Development
-React • Next.js • Node.js • Flask • FastAPI • Flutter • MongoDB • PostgreSQL • Firebase • Supabase
+* ❄️ **<font color="#80E5FF">Government Funded Projects (NIELIT)</font>** Engineered Krishi Sahayak (AI Agricultural Platform) and Sys Logger (Enterprise System Observability Platform).
 
-### Design & Developer Tools
-Git • REST APIs • Figma • Photoshop • Blender • VS Code
+* ❄️ **<font color="#80E5FF">Research Member</font>** KIIT Research & Software Club (KRSC).
 
-# 🏆 Academic Highlights
-### 📄 Research Publication
-**Stock Earnings Forecasting via News Factor Analyzing Model**
-Published in **Elsevier Procedia Computer Science (Volume 267, 2026)**
-Presented at **ICMLDE 2025**
-🔗 [Read the paper on ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1877050926020521)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andrei-br/andrei-br/main/assets/line.gif" width="100%" />
+</p>
 
----
-### 🏅 Hackathon
-**Nirman 4.0 National Hackathon**
-Qualified for **Round 2**
-Hosted by **Silicon University**
----
-### 🚀 Government Funded Projects
-**Krishi Sahayak** *(Funded by NIELIT, Government of India)*
-- AI-powered agricultural platform for crop disease detection, weather intelligence, and precision farming recommendations.
+### <font color="#00D2FF">❄️ FEATURED PROJECTS</font>
 
-**Sys Logger**
-- Enterprise system observability platform developed under a **NIELIT Government of India initiative**, monitoring 100+ production endpoints in real time.
----
-### 🤝 Community & Research
-- **Research Member**, KIIT Research & Software Club (KRSC)
-- Contributed to AI, Machine Learning, and Systems Research throughout undergraduate studies.
----
+| Project | Domain | Description | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **<font color="#80E5FF">OmniRay</font>** | `SLAM Engine` | 256-bit AVX2 SIMD-accelerated C++ raycasting engine (0.037ms scan times, 26x SIMD speedup) with vectorized PPO policy inference on edge CPUs. | `C++` `AVX2 SIMD` `Python` `SLAM` `PPO` |
+| **<font color="#80E5FF">Apex OS</font>** | `Operating Systems` | Bare-metal x86_64 Rust OS featuring an RL-driven CPU scheduler, TPM 2.0 verified boot, and capability sandboxing. | `Rust` `x86_64` `RL` `TPM 2.0` `UDP Swarm` |
+| **<font color="#80E5FF">Dynamic Gradient PINNs</font>** | `Physics-Informed ML` | ResSIREN-Fourier PINN with PCGrad and Softplus Physics Anchor achieving 32,700x forward inference speedup over OpenFOAM. | `Python` `PyTorch` `PINNs` `OpenFOAM` |
+| **<font color="#80E5FF">Triton Fuser</font>** | `Quantitative PINN` | Hydrodynamic limit order book PDE model on live Binance L2 data with OpenAI Triton fused GEMM + Softplus kernels for NVIDIA GPUs. | `PyTorch` `Triton` `CUDA` `AVX2` `C++` |
+| **<font color="#80E5FF">Krishi Sahayak</font>** | `Edge AI / Mobile` | NIELIT Government Funded AI agricultural app with CNN TFLite edge inference, crop disease detection, and live mandi prices. | `Flutter` `FastAPI` `Supabase` `Firebase` `TFLite` |
+| **<font color="#80E5FF">Sys Logger</font>** | `Distributed Systems` | Production distributed observability platform monitoring 100+ active network endpoints with ML anomaly detection. | `Next.js` `Flask` `PostgreSQL` `PM2` |
+| **<font color="#80E5FF">AI Clot Monitoring</font>** | `Biomedical ML` | Clinical-grade wearable system using a Bayesian triple-encoder hybrid to predict post-surgical blood clots. | `PyTorch` `CNNs` `LSTMs` `Deep Learning` |
 
-# Featured Projects
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andrei-br/andrei-br/main/assets/line.gif" width="100%" />
+</p>
 
-| Project                    | Description                                                                                                                                                                                                                              | Tech                                                          | Stars |
-| :------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------ | :---- |
-| **OmniRay**                | CPU-based AVX2 SLAM framework for autonomous mapping and exploration, built for high-performance raycasting, optimized particle filtering, and real-time spatial reasoning.                                                              | C++, AVX2 SIMD, Python, SLAM, Optimization                    |       |
-| **Triton Fuser**           | Hydrodynamic Limit Order Book PINN trained on Binance L2 data, utilizing a C++ AVX2 SIMD ingestion engine and a custom OpenAI Triton fused GEMM + Softplus kernel for NVIDIA T4 GPUs.                                                    | Python, PyTorch, OpenAI Triton, C++, AVX2 SIMD, CUDA          |       |
-| **Dynamic Gradient PINNs** | Developed a robust ResSIREN-Fourier PINN utilizing PCGrad, RAR, and Softplus Physics Anchor balancers to stabilize Navier-Stokes simulations, achieving a 32,700x forward inference speedup over OpenFOAM with near-perfect convergence. | Python, PyTorch, PINNs, Machine Learning, Neural Networks     |       |
-| **AI Clot Monitoring**     | Developed a clinical-grade wearable system using a Bayesian triple-encoder hybrid to predict post-surgical blood clots with high recall and robust synthetic data augmentation.                                                          | Python, PyTorch, CNNs, LSTMs, Machine Learning, Deep Learning |       |
-| **Sys Logger**             | High-throughput system observability platform using Next.js and Flask, designed to monitor, log, and ingest large-scale telemetry from 100+ endpoints for ML anomaly detection.                                                          | Python, Flask, Next.js, PostgreSQL, PM2, Machine Learning     |       |
-| **Krishi Sahayak**         | AI-powered Flutter agricultural platform with CNN-based crop disease detection, TFLite edge inference, weather intelligence, and ML-driven sowing recommendations via FastAPI, Supabase, and Firebase.                                   | Python, FastAPI, Flutter, CNN, TFLite, Supabase, Firebase     |       |
-| **FinReport**              | Explainable stock earnings forecasting using NLP-based sentiment analysis on financial news and quantitative indicators; research presented at the ICMLDE Conference.                                                                    | Python, Pandas, Scikit-Learn, NLP, Machine Learning           |       |
-| **CamTrak**                | Python-based computer vision application allowing users to control a computer mouse cursor and perform clicks using hand gestures via a webcam to assist disabled patients. *(In development)*                                           | Python, OpenCV, MediaPipe, Computer Vision                    |       |
-| **Road Damage Detector**   | Computer vision system detecting road surface damage for infrastructure monitoring and predictive maintenance.                                                                                                                           | Python, OpenCV, Machine Learning, Computer Vision             |       |
+### <font color="#00D2FF">❄️ EXPERIENCE</font>
 
----
+* ❄️ **<font color="#80E5FF">Full Stack Developer (Part-Time)</font>** · *Nexveda Technologies* *(Jan 2026 – Present)* Architecting full-stack education platforms using React.js, Python, MongoDB, and PostgreSQL.
 
-# Creative Work
+* ❄️ **<font color="#80E5FF">Frontend Developer (Freelance)</font>** · *Ionic Design* *(Apr 2026)* Delivered high-performance responsive web interfaces using Python-based tooling and CSS.
 
-Outside engineering I work on **automotive concept art and digital posters**.
+* ❄️ **<font color="#80E5FF">Intern</font>** · *Indian Oil Corporation Ltd (IOCL)* *(Nov 2024 – Jan 2025)* Managed industrial networking infrastructure and Cisco protocols.
 
-* Automotive poster compositions
-* Concept vehicle visualization
-* Diecast model collection
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andrei-br/andrei-br/main/assets/line.gif" width="100%" />
+</p>
 
-Design for me is not separate from engineering.
-It is simply **engineering with aesthetics**.
+<div align="center">
+
+> *"Do you understand now the difference in our power?"*
+
+</div>
