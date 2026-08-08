@@ -11,11 +11,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kingshuk-chatterjee-124101286/)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kingshuk_03/)
   
-</div>
-
-<p align="center">
-  <img src="aizen%20giff.gif" width="450" alt="Aizen"/>
-</p>
+<img src="https://in.pinterest.com/pin/717198309435163724/">
 
 ---
 ## About Me
