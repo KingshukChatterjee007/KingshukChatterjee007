@@ -1,6 +1,6 @@
 <div align="center">
 
-# <font color="#00D2FF">❄️ KINGSHUK CHATTERJEE ❄️</font>
+# <font color="#00D2FF"> KINGSHUK CHATTERJEE </font>
 ### **<font color="#80E5FF">Software Developer · ML Engineer · Systems Architect</font>**
 📍 *<font color="#00D2FF">Quatre Bornes, Mauritius</font>*
 
@@ -44,13 +44,13 @@
 
 ### <font color="#00D2FF">❄️ ACADEMIC & RESEARCH HIGHLIGHTS</font>
 
-* ❄️ **<font color="#80E5FF">Stock Earnings Forecasting via News Factor Analyzing Model</font>** Published in *Elsevier Procedia Computer Science (Vol. 267, 2026)* · Presented at *ICMLDE 2025* Applied NLP sentiment analysis and quantitative financial indicators to build an ML earnings forecasting model.
+* **<font color="#80E5FF">Stock Earnings Forecasting via News Factor Analyzing Model</font>** Published in *Elsevier Procedia Computer Science (Vol. 267, 2026)* · Presented at *ICMLDE 2025* Applied NLP sentiment analysis and quantitative financial indicators to build an ML earnings forecasting model.
 
-* ❄️ **<font color="#80E5FF">Nirman 4.0 National Hackathon</font>** Qualified for Round 2, hosted by Silicon University.
+* **<font color="#80E5FF">Nirman 4.0 National Hackathon</font>** Qualified for Round 2, hosted by Silicon University.
 
-* ❄️ **<font color="#80E5FF">Government Funded Projects (NIELIT)</font>** Engineered Krishi Sahayak (AI Agricultural Platform) and Sys Logger (Enterprise System Observability Platform).
+*  **<font color="#80E5FF">Government Funded Projects (NIELIT)</font>** Engineered Krishi Sahayak (AI Agricultural Platform) and Sys Logger (Enterprise System Observability Platform).
 
-* ❄️ **<font color="#80E5FF">Research Member</font>** KIIT Research & Software Club (KRSC).
+*  **<font color="#80E5FF">Research Member</font>** KIIT Research & Software Club (KRSC).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andrei-br/andrei-br/main/assets/line.gif" width="100%" />
@@ -74,11 +74,11 @@
 
 ### <font color="#00D2FF">❄️ EXPERIENCE</font>
 
-* ❄️ **<font color="#80E5FF">Full Stack Developer (Part-Time)</font>** · *Nexveda Technologies* *(Jan 2026 – Present)* Architecting full-stack education platforms using React.js, Python, MongoDB, and PostgreSQL.
+*  **<font color="#80E5FF">Full Stack Developer (Part-Time)</font>** · *Nexveda Technologies* *(Jan 2026 – Present)* Architecting full-stack education platforms using React.js, Python, MongoDB, and PostgreSQL.
 
-* ❄️ **<font color="#80E5FF">Frontend Developer (Freelance)</font>** · *Ionic Design* *(Apr 2026)* Delivered high-performance responsive web interfaces using Python-based tooling and CSS.
+*  **<font color="#80E5FF">Frontend Developer (Freelance)</font>** · *Ionic Design* *(Apr 2026)* Delivered high-performance responsive web interfaces using Python-based tooling and CSS.
 
-* ❄️ **<font color="#80E5FF">Intern</font>** · *Indian Oil Corporation Ltd (IOCL)* *(Nov 2024 – Jan 2025)* Managed industrial networking infrastructure and Cisco protocols.
+*  **<font color="#80E5FF">Intern</font>** · *Indian Oil Corporation Ltd (IOCL)* *(Nov 2024 – Jan 2025)* Managed industrial networking infrastructure and Cisco protocols.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andrei-br/andrei-br/main/assets/line.gif" width="100%" />
