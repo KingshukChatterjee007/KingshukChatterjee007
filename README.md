@@ -48,7 +48,7 @@
 
 * **<font color="#80E5FF">Nirman 4.0 National Hackathon</font>** Qualified for Round 2, hosted by Silicon University.
 
-*  **<font color="#80E5FF">Government Funded Projects (NIELIT)</font>** Engineered Krishi Sahayak (AI Agricultural Platform) and Sys Logger (Enterprise System Observability Platform).
+*  **<font color="#80E5FF">Government Funded Projects (NIELIT)</font>** Engineered Krishi Sahayak (AI Agricultural Platform) : https://www.krishisahayogi.in/ and Sys Logger (Enterprise System Observability Platform) https://lab-monitoring.nielitbhubaneswar.in/.
 
 *  **<font color="#80E5FF">Research Member</font>** KIIT Research & Software Club (KRSC).
 
